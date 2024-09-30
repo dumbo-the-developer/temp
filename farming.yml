@@ -1,0 +1,838 @@
+  farming:
+    name: "&8Sky-Market &8| &8Çiftçilik &8(%page%/5)"
+    buttons:
+      goBack:
+        slot: 49
+      previousPage:
+        slot: 48
+      nextPage:
+        slot: 50
+    fillItem:
+        material: GRAY_STAINED_GLASS_PANE
+        name: " &r " 
+    items:
+      
+      6:
+        type: item
+        item:
+          material: VINE
+          quantity: 1
+        buyPrice: 50.75
+        sellPrice: 5.75
+        slot: 19
+      7:
+        type: item
+        item:
+          material: LILY_PAD
+          quantity: 1
+        buyPrice: 25.65
+        sellPrice: 3.80
+        slot: 20
+      8:
+        type: item
+        item:
+          material: NETHER_WART
+          quantity: 1
+        buyPrice: 505.85
+        sellPrice: 5.80
+        slot: 21
+      9:
+        type: item
+        item:
+          material: WHEAT_SEEDS
+          quantity: 1
+        buyPrice: 10.50
+        sellPrice: -1
+        slot: 22
+      10:
+        type: item
+        item:
+          material: PUMPKIN_SEEDS
+          quantity: 1
+        buyPrice: 12.50
+        sellPrice: -1
+        slot: 23
+      11:
+        type: item
+        item:
+          material: MELON_SEEDS
+          quantity: 1
+        buyPrice: 12.50
+        sellPrice: -1
+        slot: 24
+      12:
+        type: item
+        item:
+          material: COCOA_BEANS 
+          quantity: 1
+        buyPrice: 105.75
+        sellPrice: -1
+        slot: 25
+      13:
+        type: item
+        item:
+          material: OAK_SAPLING
+          quantity: 1
+        buyPrice: 67.50
+        sellPrice: -1
+        slot: 28
+      14:
+        type: item
+        item:
+          material: SPRUCE_SAPLING
+          quantity: 1
+        buyPrice: 67.50
+        sellPrice: -1
+        slot: 29
+      15:
+        type: item
+        item:
+          material: BIRCH_SAPLING
+          quantity: 1
+        buyPrice: 67.50
+        sellPrice: -1
+        slot: 30
+      16:
+        type: item
+        item:
+          material: JUNGLE_SAPLING
+          quantity: 1
+        buyPrice: 67.50
+        sellPrice: -1
+        slot: 31
+      17:
+        type: item
+        item:
+          material: ACACIA_SAPLING
+          quantity: 1
+        buyPrice: 67.50
+        sellPrice: -1
+        slot: 32
+      18:
+        type: item
+        item:
+          material: DARK_OAK_SAPLING
+          quantity: 1
+        buyPrice: 67.50
+        sellPrice: -1
+        slot: 33
+      19:
+        type: item
+        item:
+          material: MELON_SLICE
+          quantity: 1
+        buyPrice: 90.80
+        sellPrice: -1
+        slot: 34
+      20:
+        type: item
+        item:
+          material: POTATO
+          quantity: 1
+        buyPrice: 45.50
+        sellPrice: -1
+        slot: 37
+      21:
+        type: item
+        item:
+          material: MUSHROOM_STEW
+          quantity: 1
+        buyPrice: 230.75
+        sellPrice: -1
+        slot: 38
+      22:
+        type: item
+        item:
+          material: CARROT
+          quantity: 1
+        buyPrice: 55.50
+        sellPrice: -1
+        slot: 39
+      23:
+        type: item
+        item:
+          material: WHEAT
+          quantity: 1
+        buyPrice: 45.75
+        sellPrice: -1
+        slot: 40
+      24:
+        type: item
+        item:
+          material: PUMPKIN 
+          quantity: 1
+        buyPrice: 1025.50
+        sellPrice: 10.75
+        slot: 41
+      25:
+        type: item
+        item:
+          material: MELON
+          quantity: 1
+        buyPrice: 1350.85
+        sellPrice: 20.85
+        slot: 42
+      26:
+        type: item
+        item:
+          material: SUGAR_CANE
+          quantity: 1
+        buyPrice: 75.50
+        sellPrice: 10.50
+        slot: 43
+#
+      
+      32:
+        type: item
+        item:
+          material: CACTUS
+          quantity: 1
+        buyPrice: 105.50
+        sellPrice: 8.50
+        slot: 19
+        page: 2
+      33:
+        type: item
+        item:
+          material: BROWN_MUSHROOM
+          quantity: 1
+        buyPrice: 250.75
+        sellPrice: -1
+        slot: 20
+        page: 2
+      34:
+        type: item
+        item:
+          material: RED_MUSHROOM
+          quantity: 1
+        buyPrice: 300.75
+        sellPrice: -1
+        slot: 21
+        page: 2
+      35:
+        type: item
+        item:
+          material: APPLE
+          quantity: 1
+        buyPrice: 30.50
+        sellPrice: -1
+        slot: 22
+        page: 2
+      36:
+        type: item
+        item:
+          material: GOLDEN_APPLE
+          quantity: 1
+        buyPrice: 5000
+        sellPrice: -1
+        slot: 23
+        page: 2
+      37:
+        type: item
+        item:
+          material: ENCHANTED_GOLDEN_APPLE
+          quantity: 1
+        buyPrice: 500000
+        sellPrice: -1
+        slot: 24
+        page: 2
+      38:
+        type: item
+        item:
+          material: COOKIE
+          quantity: 1
+        buyPrice: 30.75
+        sellPrice: -1
+        slot: 25
+        page: 2
+      39:
+        type: item
+        item:
+          material: CAKE
+          quantity: 1
+        buyPrice: 2500
+        sellPrice: -1
+        slot: 28
+        page: 2
+      40:
+        type: item
+        item:
+          material: PUMPKIN_PIE
+          quantity: 1
+        buyPrice: 265.50
+        sellPrice: -1
+        slot: 29
+        page: 2
+      41:
+        type: item
+        item:
+          material: BREAD
+          quantity: 1
+        buyPrice: 75.60
+        sellPrice: -1
+        slot: 30
+        page: 2
+      42:
+        type: item
+        item:
+          material: BAKED_POTATO
+          quantity: 1
+        buyPrice: 80.75
+        sellPrice: -1
+        slot: 31
+        page: 2
+      43:
+        type: item
+        item:
+          material: DANDELION
+          quantity: 1
+        buyPrice: 25.50
+        sellPrice: -1
+        slot: 32
+        page: 2
+      44:
+        type: item
+        item:
+          material: POPPY
+          quantity: 1
+        buyPrice: 25.50
+        sellPrice: -1
+        slot: 33
+        page: 2
+      45:
+        type: item
+        item:
+          material: BLUE_ORCHID
+          quantity: 1
+        buyPrice: 25.50
+        sellPrice: -1
+        slot: 34
+        page: 2
+      46:
+        type: item
+        item:
+          material: ALLIUM
+          quantity: 1
+        buyPrice: 25.50
+        sellPrice: -1
+        slot: 37
+        page: 2
+      47:
+        type: item
+        item:
+          material: AZURE_BLUET
+          quantity: 1
+        buyPrice: 25.50
+        sellPrice: -1
+        slot: 38
+        page: 2
+      48:
+        type: item
+        item:
+          material: RED_TULIP
+          quantity: 1
+        buyPrice: 25.50
+        sellPrice: -1
+        slot: 39
+        page: 2
+      49:
+        type: item
+        item:
+          material: ORANGE_TULIP
+          quantity: 1
+        buyPrice: 25.50
+        sellPrice: -1
+        slot: 40
+        page: 2
+      50:
+        type: item
+        item:
+          material: WHITE_TULIP
+          quantity: 1
+        buyPrice: 25.50
+        sellPrice: -1
+        slot: 41
+        page: 2
+      51:
+        type: item
+        item:
+          material: PINK_TULIP
+          quantity: 1
+        buyPrice: 25.50
+        sellPrice: -1        
+        slot: 42
+        page: 2
+      52:
+        type: item
+        item:
+          material: OXEYE_DAISY
+          quantity: 1
+        buyPrice: 25.50
+        sellPrice: -1
+        slot: 43
+        page: 2
+#
+      
+      58:
+        type: item
+        item:
+          material: SUNFLOWER
+          quantity: 1
+        buyPrice: 45.50
+        sellPrice: -1
+        slot: 19
+        page: 3
+      59:
+        type: item
+        item:
+          material: LILAC
+          quantity: 1
+        buyPrice: 45.50
+        sellPrice: -1
+        slot: 20
+        page: 3
+      60:
+        type: item
+        item:
+          material: TALL_GRASS
+          quantity: 1
+        buyPrice: 45.50
+        sellPrice: -1
+        slot: 21
+        page: 3
+      61:
+        type: item
+        item:
+          material: LARGE_FERN
+          quantity: 1
+        buyPrice: 45.50
+        sellPrice: -1
+        slot: 22
+        page: 3
+      62:
+        type: item
+        item:
+          material: ROSE_BUSH
+          quantity: 1
+        buyPrice: 45.50
+        sellPrice: -1
+        slot: 23
+        page: 3
+      63:
+        type: item
+        item:
+          material: PEONY
+          quantity: 1
+        buyPrice: 45.50
+        sellPrice: -1
+        slot: 24
+        page: 3
+      64:
+        type: item
+        item:
+          material: DEAD_BUSH
+          quantity: 1
+        buyPrice: 65.50
+        sellPrice: -1
+        slot: 25
+        page: 3
+      65:
+        type: item
+        item:
+          material: KELP
+          quantity: 1
+        buyPrice: 45.50
+        sellPrice: -1
+        slot: 28
+        page: 3
+      66:
+        type: item
+        item:
+          material: SCUTE
+          quantity: 1
+        buyPrice: 7500
+        sellPrice: -1
+        slot: 29
+        page: 3
+      67:
+        type: item
+        item:
+          material: DRIED_KELP
+          quantity: 1
+        buyPrice: 105.70
+        sellPrice: -1
+        slot: 30
+        page: 3
+      68:
+        type: item
+        item:
+          material: BEETROOT
+          quantity: 1
+        buyPrice: 12.50
+        sellPrice: -1
+        slot: 31
+        page: 3
+      69:
+        type: item
+        item:
+          material: BAMBOO
+          quantity: 1
+        buyPrice: 55.85
+        sellPrice: 5.75
+        slot: 32
+        page: 3        
+      70:
+        type: item
+        item:
+          material: ACACIA_LEAVES
+          quantity: 1
+        buyPrice: 17.50
+        sellPrice: -1
+        slot: 33
+        page: 3        
+      71:
+        type: item
+        item:
+          material: BIRCH_LEAVES
+          quantity: 1
+        buyPrice: 17.50
+        sellPrice: -1
+        slot: 34
+        page: 3        
+      72:
+        type: item
+        item:
+          material: JUNGLE_LEAVES
+          quantity: 1
+        buyPrice: 17.50
+        sellPrice: -1
+        slot: 37
+        page: 3
+      73:
+        type: item
+        item:
+          material: OAK_LEAVES
+          quantity: 1
+        buyPrice: 17.50
+        sellPrice: -1
+        slot: 38
+        page: 3
+      74:
+        type: item
+        item:
+          material: DARK_OAK_LEAVES
+          quantity: 1
+        buyPrice: 17.50
+        sellPrice: -1
+        slot: 39
+        page: 3
+      75:
+        type: item
+        item:
+          material: SPRUCE_LEAVES
+          quantity: 1
+        buyPrice: 17.50
+        sellPrice: -1
+        slot: 40
+        page: 3        
+      76:
+        type: item
+        item:
+          material: CARVED_PUMPKIN
+          quantity: 1
+        buyPrice: 615.50
+        sellPrice: -1
+        slot: 41
+        page: 3        
+      77:
+        type: item
+        item:
+          material: CHORUS_FLOWER
+          quantity: 1
+        buyPrice: 5000
+        sellPrice: 85.50
+        slot: 42
+        page: 3        
+      78:
+        type: item
+        item:
+          material: CHORUS_FRUIT
+          quantity: 1
+        buyPrice: 750.85
+        sellPrice: -1
+        slot: 43
+        page: 3
+#
+      
+      84:
+        type: item
+        item:
+          material: CHORUS_PLANT
+          quantity: 1
+        buyPrice: 575.50
+        sellPrice: -1
+        slot: 19
+        page: 4
+      85:
+        type: item
+        item:
+          material: DRIED_KELP_BLOCK
+          quantity: 1
+        buyPrice: 345.50
+        sellPrice: 10.65
+        slot: 20
+        page: 4
+      86:
+        type: item
+        item:
+          material: EGG
+          quantity: 1
+        buyPrice: 15.65
+        sellPrice: -1
+        slot: 21
+        page: 4
+      87:
+        type: item
+        item:
+          material: GLISTERING_MELON_SLICE
+          quantity: 1
+        buyPrice: 850.50
+        sellPrice: -1
+        slot: 22
+        page: 4
+      88:
+        type: item
+        item:
+          material: GOLDEN_CARROT
+          quantity: 1
+        buyPrice: 900.50
+        sellPrice: -1
+        slot: 23
+        page: 4
+      89:
+        type: item
+        item:
+          material: HAY_BLOCK
+          quantity: 1
+        buyPrice: 125.50
+        sellPrice: -1
+        slot: 24
+        page: 4
+      90:
+        type: item
+        item:
+          material: SEA_PICKLE
+          quantity: 1
+        buyPrice: 65.50
+        sellPrice: -1
+        slot: 25
+        page: 4
+      91:
+        type: item
+        item:
+          material: SEAGRASS
+          quantity: 1
+        buyPrice: 65.70
+        sellPrice: -1
+        slot: 28
+        page: 4
+      92:
+        type: item
+        item:
+          material: SUGAR
+          quantity: 1
+        buyPrice: 25.65
+        sellPrice: -1
+        slot: 29
+        page: 4
+      93:
+        type: item
+        item:
+          material: WITHER_ROSE
+          quantity: 1
+        buyPrice: 5000.70
+        sellPrice: 850.50
+        slot: 31
+        page: 4
+      94:
+        type: item
+        item:
+          material: CORNFLOWER
+          quantity: 1
+        buyPrice: 25.50
+        sellPrice: -1
+        slot: 29
+        page: 4
+      95:
+        type: item
+        item:
+          material: LILY_OF_THE_VALLEY
+          quantity: 1
+        buyPrice: 25.50
+        sellPrice: -1
+        slot: 30
+        page: 4
+      96:
+        type: item
+        item:
+          material: SWEET_BERRIES
+          quantity: 1
+        buyPrice: 85.80
+        sellPrice: 3.75
+        slot: 31
+        page: 4
+      97:
+        type: item
+        item:
+          material: BEE_NEST
+          quantity: 1
+        buyPrice: 585.50
+        sellPrice: 10.95
+        slot: 32
+        page: 4
+      98:
+        type: item
+        item:
+          material: BEEHIVE
+          quantity: 1
+        buyPrice: 325.50
+        sellPrice: -1
+        slot: 33
+        page: 4
+      99:
+        type: item
+        item:
+          material: HONEY_BLOCK
+          quantity: 1
+        buyPrice: 1025.50
+        sellPrice: 180.70
+        slot: 34
+        page: 4
+      100:
+        type: item
+        item:
+          material: HONEY_BOTTLE
+          quantity: 1
+        buyPrice: 275.50
+        sellPrice: 50.85
+        slot: 37
+        page: 4
+      101:
+        type: item
+        item:
+          material: HONEYCOMB
+          quantity: 1
+        buyPrice: 300.75
+        sellPrice: 57.95
+        slot: 38
+        page: 4
+      102:
+        type: item
+        item:
+          material: HONEYCOMB_BLOCK
+          quantity: 1
+        buyPrice: 1275.80
+        sellPrice: 200.75
+        slot: 39
+        page: 4
+      103:
+        type: item
+        item:
+          material: AZALEA
+          quantity: 1
+        buyPrice: 50.70
+        sellPrice: -1
+        slot: 40
+        page: 4
+      104:
+        type: item
+        item:
+          material: flowering_azalea
+          quantity: 1
+        buyPrice: 125.70
+        sellPrice: 8.90
+        slot: 41
+        page: 4
+      105:
+        type: item
+        item:
+          material: AZALEA_LEAVES
+          quantity: 1
+        buyPrice: 35.50
+        sellPrice: -1
+        slot: 42
+        page: 4
+#
+      
+      112:
+        type: item
+        item:
+          material: GLOW_LICHEN
+          quantity: 1
+        buyPrice: 35.90
+        sellPrice: 3.75
+        slot: 19
+        page: 5
+      113:
+        type: item
+        item:
+          material: BIG_DRIPLEAF
+          quantity: 1
+        buyPrice: 105.70
+        sellPrice: 10.5
+        slot: 20
+        page: 5
+      115:
+        type: item
+        item:
+          material: SMALL_DRIPLEAF
+          quantity: 1
+        buyPrice: 55.60
+        sellPrice: 5.25
+        slot: 21
+        page: 5
+      116:
+        type: item
+        item:
+          material: HANGING_ROOTS
+          quantity: 1
+        buyPrice: 15.75
+        sellPrice: -1
+        slot: 22
+        page: 5
+      117:
+        type: item
+        item:
+          material: MOSS_BLOCK
+          quantity: 1
+        buyPrice: 25.60
+        sellPrice: -1
+        slot: 23
+        page: 5
+      118:
+        type: item
+        item:
+          material: MOSS_CARPET
+          quantity: 1
+        buyPrice: 15.60
+        sellPrice: -1
+        slot: 24
+        page: 5
+      119:
+        type: item
+        item:
+          material: ROOTED_DIRT
+          quantity: 1
+        buyPrice: 7.50
+        sellPrice: -1
+        slot: 25
+        page: 5
+      120:
+        type: item
+        item:
+          material: SPORE_BLOSSOM
+          quantity: 1
+        buyPrice: 80.90
+        sellPrice: 10.20
+        slot: 28
+        page: 5

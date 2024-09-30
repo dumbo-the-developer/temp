@@ -1,0 +1,186 @@
+  drops:
+    name: "&8Sky-Market &8| &8Mob Eşyaları &8(%page%/2)"
+    size: 54
+    buttons:
+      goBack:
+        slot: 49
+      previousPage:
+        slot: 48
+      nextPage:
+        slot: 50
+    fillItem:
+        material: GRAY_STAINED_GLASS_PANE
+        name: " &r " 
+    items:
+      
+      8:
+        type: item
+        item:
+          material: ROTTEN_FLESH
+          quantity: 1
+        buyPrice: 75.50
+        sellPrice: 1.25
+        slot: 19
+      9:
+        type: item
+        item:
+          material: GUNPOWDER
+          quantity: 1
+        buyPrice: 235.50
+        sellPrice: 10.85
+        slot: 20
+      10:
+        type: item
+        item:
+          material: ENDER_PEARL
+          quantity: 1
+        buyPrice: 1050.50
+        sellPrice: 105.85
+        slot: 21
+      11:
+        type: item
+        item:
+          material: SPIDER_EYE
+          quantity: 1
+        buyPrice: 125.50
+        sellPrice: 15.50
+        slot: 28
+      12:
+        type: item
+        item:
+          material: STRING
+          quantity: 1
+        buyPrice: 95.50
+        sellPrice: 8.75
+        slot: 29
+      13:
+        type: item
+        item:
+          material: ARROW 
+          quantity: 1
+        buyPrice: 50
+        sellPrice: -1
+        slot: 30
+      14:
+        type: item
+        item:
+          material: BONE  
+          quantity: 1
+        buyPrice: 205.50
+        sellPrice: 20.80
+        slot: 32
+      15:
+        type: item
+        item:
+          material: SLIME_BALL
+          quantity: 1
+        buyPrice: 100.50
+        sellPrice: 12.75
+        slot: 33
+      16:
+        type: item
+        item:
+          material: BLAZE_ROD
+          quantity: 1
+        buyPrice: 1000
+        sellPrice: 125.50
+        slot: 34
+      17:
+        type: item
+        item:
+          material: LEATHER
+          quantity: 1
+        buyPrice: 125.50
+        sellPrice: -1
+        slot: 41
+      18:
+        type: item
+        item:
+          material: RABBIT_HIDE
+          quantity: 1
+        buyPrice: 100.25
+        sellPrice: -1
+        slot: 42
+      19:
+        type: item
+        item:
+          material: RABBIT_FOOT
+          quantity: 1
+        buyPrice: 115.50
+        sellPrice: -1
+        slot: 43
+      20:
+        type: item
+        item:
+          material: FEATHER
+          quantity: 1
+        buyPrice: 102.50
+        sellPrice: -1
+        slot: 37
+      21:
+        type: item
+        item:
+          material: EGG
+          quantity: 1
+        buyPrice: 80.55
+        sellPrice: -1
+        slot: 38
+      22:
+        type: item
+        item:
+          material: WHITE_WOOL
+          quantity: 1
+        buyPrice: 65.50
+        sellPrice: -1
+        slot: 39
+      30:
+        type: item
+        item:
+          material: PRISMARINE_SHARD
+          quantity: 1
+        buyPrice: 1250.75
+        sellPrice: 80.75
+        slot: 19
+        page: 2
+      31:
+        type: item
+        item:
+          material: PRISMARINE_CRYSTALS
+          quantity: 1
+        buyPrice: 1875.50
+        sellPrice: 120.50
+        slot: 20
+        page: 2
+      32:
+        type: item
+        item:
+          material: INK_SAC
+          quantity: 1
+        buyPrice: 105.50
+        sellPrice: 10.75
+        slot: 21
+        page: 2
+      33:
+        type: item
+        item:
+          material: GHAST_TEAR
+          quantity: 1
+        buyPrice: 8500
+        sellPrice: 500.85
+        slot: 23
+      34:
+        type: item
+        item:
+          material: PHANTOM_MEMBRANE
+          quantity: 1
+        buyPrice: 10500.50
+        sellPrice: 1000
+        slot: 24
+      35:
+        type: item
+        item:
+          material: MAGMA_CREAM
+          quantity: 1
+        buyPrice: 1850.50
+        sellPrice: 250.80
+        slot: 25

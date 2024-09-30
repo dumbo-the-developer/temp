@@ -1,0 +1,142 @@
+  dyes:
+    name: "&8Sky-Market &8| &8Boyalar &8(%page%/1)"
+    size: 54
+    buttons:
+      goBack:
+        slot: 49
+      previousPage:
+        slot: 48
+      nextPage:
+        slot: 50
+    fillItem:
+        material: GRAY_STAINED_GLASS_PANE
+        name: " &r " 
+    items:
+      4:
+        type: item
+        item:
+          material: RED_DYE     
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: -1
+        slot: 12
+      5:
+        type: item
+        item:
+          material: ORANGE_DYE      
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: -1
+        slot: 13
+      6:
+        type: item
+        item:
+          material: YELLOW_DYE       
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: -1
+        slot: 14
+      7:
+        type: item
+        item:
+          material: GREEN_DYE     
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: -1
+        slot: 20
+      8:
+        type: item
+        item:
+          material: LIME_DYE      
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: -1
+        slot: 21
+      9:
+        type: item
+        item:
+          material: BLUE_DYE     
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: -1
+        slot: 22
+      10:
+        type: item
+        item:
+          material: CYAN_DYE      
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: -1
+        slot: 23
+      11:
+        type: item
+        item:
+          material: LIGHT_BLUE_DYE      
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: -1
+        slot: 24
+      12:
+        type: item
+        item:
+          material: MAGENTA_DYE     
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: -1
+        slot: 29
+      13:
+        type: item
+        item:
+          material: PURPLE_DYE      
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: -1
+        slot: 30
+      14:
+        type: item
+        item:
+          material: PINK_DYE       
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: -1
+        slot: 31
+      15:
+        type: item
+        item:
+          material: WHITE_DYE   
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: -1
+        slot: 32
+      16:
+        type: item
+        item:
+          material: LIGHT_GRAY_DYE
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: -1
+        slot: 33
+      17:
+        type: item
+        item:
+          material: GRAY_DYE     
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: -1
+        slot: 39
+      18:
+        type: item
+        item:
+          material: BROWN_DYE     
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: -1
+        slot: 40
+      19:
+        type: item
+        item:
+          material: BLACK_DYE     
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: -1
+        slot: 41
